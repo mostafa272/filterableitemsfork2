@@ -31,6 +31,15 @@ You can set the options of this module to filter K2 items based on their tags, t
 
 - Download this module
 - Install this module via Admin Backend
-- Configure the setting of this module at Admin Backend 
+- Configure the setting of this module at Admin Backend                        
+
+## Download                               
+https://www.codester.com/items/15477/filterable-items-for-k2-joomla-module
+
+## Demo                                     
+https://github.com/mostafa272/filterableitemsfork2/wiki/Demo                                
+                    
+## Documentation                                
+https://github.com/mostafa272/filterableitemsfork2/wiki/Documentation                           
 
 Using this module is easy and fast and it can be installed on Joomla 2.5.x, Joomla 3.x. Before using this module, make sure the K2 component has been installed on your Joomla website.
